@@ -16,3 +16,12 @@ public class Swap {
         System.out.println("b = " +b);
     }
 }
+
+/* OUTPUT: 
+Before Swap
+a = 32
+b = 67
+After Swap
+a = 67
+b = 32
+ */

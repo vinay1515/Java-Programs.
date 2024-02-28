@@ -12,3 +12,9 @@ public class SwapMethod2 {
         System.out.println("After swapping, a = " + a + " and b = " + b);
     }
 }
+
+
+/* OUTPUT:
+Before swapping, a = 155 and b = 651
+After swapping, a = 651 and b = 155
+ */
