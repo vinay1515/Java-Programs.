@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "5. odd or even",
+        "4. Swap two Numbers Program",
         "3. Simple Calculator program",
         "2. Addition of Two Numbers",
         "1. Hello World Program",
-        "4. Swap two Numbers Program",
-        "5. odd or even"
+        "6. Reverse Program"
     ]
 }
