@@ -13,3 +13,8 @@ public class ReverseNumber {
         scanner.close();
     }
 }
+
+
+/* Output 
+Enter a Number:24689654
+The Reversed Number is:45698642 */
