@@ -55,7 +55,7 @@ The final result: 89.0 - 61.0 = 28.0
  */
 
 /* OUTPUT:3
-96Enter the two numbers: 15 & 5
+Enter the two numbers: 15 & 5
 Enter the Operators (+,-,*,/): *
 The final result: 15.0 * 5.0 = 75.0
  */
