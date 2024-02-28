@@ -17,3 +17,9 @@ public class OddEvenChecker2 {
         scanner.close();
     }
 }
+
+
+/* OUTPUT: 
+Enter a Randon Number: 123456
+The Given Number is Even:123456
+ */

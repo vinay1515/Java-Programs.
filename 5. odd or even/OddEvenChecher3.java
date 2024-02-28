@@ -15,3 +15,8 @@ public class OddEvenChecher3 {
     }
     
 }
+
+/* OUTPUT:
+Enter a Number: 1236
+1236 is an even number.
+ */

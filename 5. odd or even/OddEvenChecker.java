@@ -17,3 +17,8 @@ public class OddEvenChecker {
         scanner.close();
     }
 }
+
+/* OUTPUT:
+Enter a number: 216545
+The Given number is Odd:216545
+ */
