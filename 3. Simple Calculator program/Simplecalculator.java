@@ -41,3 +41,27 @@ public class Simplecalculator {
 
     }
 }
+
+/*OUTPUT:1
+ * Enter the two numbers:65 & 96
+Enter the Operators (+,-,*,/): +
+The final result: 65.0 + 96.0 = 161.0
+ */
+
+/* OUTPUT:2
+Enter the two numbers: 89 & 61
+Enter the Operators (+,-,*,/): -
+The final result: 89.0 - 61.0 = 28.0
+ */
+
+/* OUTPUT:3
+96Enter the two numbers: 15 & 5
+Enter the Operators (+,-,*,/): *
+The final result: 15.0 * 5.0 = 75.0
+ */
+
+/* OUTPUT:4 
+Enter the two numbers: 96 & 4 
+Enter the Operators (+,-,*,/): /
+The final result: 96.0 / 4.0 = 24.0
+*/
