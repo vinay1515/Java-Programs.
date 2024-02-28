@@ -7,3 +7,6 @@ public class Addition {
         System.out.println("The addition of two numbers is :" + result);
     }
 }
+/* OUTPUT:
+ * The addition of two numbers is :45
+ */
