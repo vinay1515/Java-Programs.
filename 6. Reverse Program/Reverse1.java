@@ -19,3 +19,8 @@ public class Reverse1 {
         scanner.close();
     }
 }
+
+
+/* OUTPUT: 
+Enter a Number: 123456789
+The Reversed number is :987654321 */
