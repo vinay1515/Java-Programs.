@@ -5,6 +5,8 @@
         "3. Simple Calculator program",
         "2. Addition of Two Numbers",
         "1. Hello World Program",
-        "6. Reverse Program"
-    ]
+        "6. Reverse Program",
+        "7. Greatest of three numbers program"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
