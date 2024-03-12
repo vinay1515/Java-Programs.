@@ -1,4 +1,4 @@
-/* Program to find Greatest of among three numbers using if-else Condition */
+/* Program to find Smallest of among three numbers using if-else Condition */
 
 import java.util.Scanner;
 
