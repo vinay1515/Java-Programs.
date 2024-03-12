@@ -17,6 +17,8 @@ public class Greatestnumber3 {
         scanner.close();
     }
 }
+
+
  /* OUTPUT:
 Enter three numbers: 15 86 12
 The greatest number is: 86
