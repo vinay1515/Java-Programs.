@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "8. Switch Condition Example",
         "7. Greatest of three numbers program",
         "6. Reverse Program",
         "5. odd or even",
@@ -7,8 +8,7 @@
         "3. Simple Calculator program",
         "2. Addition of Two Numbers",
         "1. Hello World Program",
-        "8. Switch Condition Example",
-        "9. LCM of 2 numbers"
+        "9. Smallest of three Numbers"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
