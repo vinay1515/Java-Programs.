@@ -8,7 +8,8 @@
         "3. Simple Calculator program",
         "2. Addition of Two Numbers",
         "1. Hello World Program",
-        "9. Smallest of three Numbers"
+        "9. Smallest of three Numbers",
+        "10. A to Z"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
