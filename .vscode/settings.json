@@ -11,7 +11,9 @@
         "11. if statement example",
         "10. A to Z",
         "1. Hello World Program",
-        "12. For loop example"
+        "12. For loop example",
+        "13. Example of Block using for loop"
     ],
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.fontSize": 18
 }
