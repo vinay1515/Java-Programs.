@@ -1,6 +1,6 @@
 /*
  Demonstrate a block of code.
- Call this file "BlockTest.java"
+ Call this file "BlockSample.java"
 */
 
 public class BlockSample {
